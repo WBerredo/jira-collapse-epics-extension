@@ -1,6 +1,6 @@
 {
   "name": "jira-collapse-epics-extension",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "A browser extension to add filter \"Collapse Completed Epics\" on Jira Kanban Board",
   "scripts": {
     "start": "node utils/webserver.js",
